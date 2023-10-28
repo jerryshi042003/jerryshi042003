@@ -1,4 +1,14 @@
-### Hi there 👋
+#### Data Theory UCLA 2025
+
+### Work
+- Tennis AI Intern: StatsPerform WTA Partnership
+- Team USA Data Analyst: US Open Performance Analytics Team
+
+### Experience
+- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
+- Founder: Sauna Club
+
+
 
 <!--
 **jerryshi042003/jerryshi042003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
