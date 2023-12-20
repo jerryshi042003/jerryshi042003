@@ -6,7 +6,10 @@
 
 ### Experience
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
-- Founder: Sauna Club
+
+### Interests
+- Data Science/Engineering Roles
+- Sports, Transportation, Tech, and Music
 
 
 
