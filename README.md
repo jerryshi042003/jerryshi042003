@@ -5,7 +5,7 @@
 - Team USA Data Analyst: US Open Performance Analytics Team
 
 ### Research
-[Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](http://www.microsoft.com/en-us/research/publication/reality-distortion-room-a-study-of-user-locomotion-responses-to-spatial-augmented-reality-effects/)
+[Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
 
 
 ### Experience
