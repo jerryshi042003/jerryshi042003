@@ -4,6 +4,10 @@
 - Tennis AI Intern: StatsPerform WTA Partnership
 - Team USA Data Analyst: US Open Performance Analytics Team
 
+### Research
+[Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](http://www.microsoft.com/en-us/research/publication/reality-distortion-room-a-study-of-user-locomotion-responses-to-spatial-augmented-reality-effects/)
+
+
 ### Experience
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
 
