@@ -7,7 +7,8 @@
 ### Research
 Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
 
-Four Eyes Lab - Published Oct 2023: [Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
+Past: Four Eyes Lab - Published Oct 2023: 
+[Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
 
 ### Independent Projects
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
