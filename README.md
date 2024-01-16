@@ -5,6 +5,9 @@
 - Team USA Data Analyst: US Open Performance Analytics Team
 
 ### Research
+Currently in Mobility Lab - UCLA
+
+Four Eyes Lab - UCSB
 Published Oct 2023: [Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
 
 ### Independent Projects
