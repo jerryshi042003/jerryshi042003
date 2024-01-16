@@ -1,8 +1,8 @@
 #### Data Theory UCLA 2025
 
 ### Work
-- Tennis AI Intern: StatsPerform WTA Partnership
-- Team USA Data Analyst: US Open Performance Analytics Team
+- AI Data Science Intern: StatsPerform
+- Professional Tennis Data Analyst: US Open Performance Analytics Team
 
 ### Research
 Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
@@ -11,8 +11,8 @@ Four Eyes Lab - Published Oct 2023: [Reality Distortion Room: A Study of User Lo
 
 ### Independent Projects
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
-- Data Journalism Author: [Comparing Carlos Alcaraz to Previous World No.1's](https://www.bruinsportsanalytics.com/post/carlos_alcaraz_no1)
 - Blog Website and Author: [My Blog](https://www.jerryhshi.com)
+
 
 ### Interests
 - Data Science/Engineering Roles
