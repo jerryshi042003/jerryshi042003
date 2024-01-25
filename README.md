@@ -5,7 +5,7 @@
 - Professional Tennis Data Analyst: US Open Performance Analytics Team
   
 ### Independent Projects
-- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
+- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis [See Tennis Video Viewer Project on Github](https://github.com/jerryshi042003/Tennis-Video-Viewer)
 - Blog Website and Author: [My Blog](https://www.jerryhshi.com)
   
 ### Research
