@@ -3,15 +3,14 @@
 ### Work
 - AI Data Science Intern: StatsPerform [Example of Win Prediction Model](https://theanalyst.com/na/2024/01/australian-open-2024-predictions/)
 - Professional Tennis Data Analyst: US Open Performance Analytics Team
-- 
+  
 ### Independent Projects
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis
 - Blog Website and Author: [My Blog](https://www.jerryhshi.com)
-- 
+  
 ### Research
-Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
-
-Past: Four Eyes Lab - Published Oct 2023: 
+- Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
+- Past: Four Eyes Lab - Published Oct 2023: 
 [Recently Published Spatial Augmented Reality Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
 
 ### Interests
