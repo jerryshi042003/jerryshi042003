@@ -1,12 +1,13 @@
 #### Data Theory UCLA 2025
 
+### Independent Projects
+- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis [Website Demo](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0)  
+  [See Github](https://github.com/jerryshi042003/Tennis-Video-Viewer)
+- Blog Website and Author: [My Blog](https://www.jerryhshi.com)
+
 ### Work
 - AI Data Science Intern: StatsPerform [Example of Win Prediction Model](https://theanalyst.com/na/2024/01/australian-open-2024-predictions/)
-- Professional Tennis Data Analyst: US Open Performance Analytics Team
-  
-### Independent Projects
-- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis [See Tennis Video Viewer Project on Github](https://github.com/jerryshi042003/Tennis-Video-Viewer)
-- Blog Website and Author: [My Blog](https://www.jerryhshi.com)
+- Professional Tennis Data Analyst: US Open Performance Analytics Team 
   
 ### Research
 - Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
