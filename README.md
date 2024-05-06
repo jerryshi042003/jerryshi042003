@@ -2,7 +2,7 @@
 
 ### Independent Projects
 - Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis [Website Demo](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0)  
-  [See Github](https://github.com/jerryshi042003/Tennis-Video-Viewer)
+- [See Github for Code](https://github.com/jerryshi042003/Tennis-Video-Viewer)
 - Blog Website and Author: [My Blog](https://www.jerryhshi.com)
 
 ### Work
