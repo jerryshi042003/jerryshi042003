@@ -6,7 +6,7 @@
 - Blog Website and Author: [My Blog](https://www.jerryhshi.com)
 
 ### Work
-- AI Data Science Intern: StatsPerform [Example of Win Prediction Model](https://theanalyst.com/na/2024/01/australian-open-2024-predictions/)
+- AI Data Science Intern: StatsPerform [Example of Win Prediction Model](https://theanalyst.com/na/sport/tennis/)
 - Professional Tennis Data Analyst: US Open Performance Analytics Team 
   
 ### Research
