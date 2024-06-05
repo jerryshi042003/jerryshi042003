@@ -11,7 +11,7 @@
   
 ### Research
 - Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
-- Past: Four Eyes Lab - Published Oct 2023: 
+- Published Oct 2023: 
 [Recently Published Spatial Augmented Reality Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
 
 ### Interests
