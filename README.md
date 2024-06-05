@@ -13,6 +13,7 @@
 - Currently in [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu)
 - Published Oct 2023: 
 [Recently Published Spatial Augmented Reality Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
+  - Created 3D Visuals using Unity and R
 
 ### Interests
 - Data Science/Engineering Roles
