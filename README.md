@@ -17,7 +17,8 @@
 
 ### Interests
 - Data Science/Engineering Roles
-- Sports, Transportation, Tech, and Music
+- Sports: Tennis Triathlon
+- Tech related to Music, Audiobooks, and Transportation
 
 
 
