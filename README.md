@@ -1,6 +1,6 @@
-#### Jerry uses the role "Data Scientist" as a means to explore his interests in tennis, transportation, and streaming. By starting his own clubs related to his passions, he realized how much more fun it is to work on a project that the leader has invested his heart in. He wants to work on any data-related task in a team environment where *purpose is present.*
+## "Data Scientist" is a means to explore my interests in tennis, transportation, and streaming. I want to learn about the entire data pipeline and its product cycle. It is enriching to keep learning skills outside my expertise. I am easily excited by the passion of others, and I am seeking out a experienced startup founder/manager to work with.
 
-### Check Out His Work
+### Check Out the Projects
 
 - UCLA Tennis Consulting [(Demo)](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0): Founder
 - [Orfeu](https://jerryshi042003.github.io/orfeu): A music recommender built out of personal necessity to highlight global music genres and explain their cultural importance  
