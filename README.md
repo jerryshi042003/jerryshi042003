@@ -1,38 +1,8 @@
-# Welcome to Jerry's GitHub! 🚀
+#### Jerry uses the role "Data Scientist" as a means to explore his interests in tennis, transportation, and streaming. By starting his own clubs related to his passions, he realized how much more fun it is to work on a project that the leader has invested his heart in. He wants to work on any data-related task in a team environment where *purpose is present.*
 
-**Jerry** is a passionate data scientist and developer who loves working on innovative projects to solve real-world problems. He thrives on challenges and enjoys pushing the limits of technology to create meaningful solutions. Jerry has worked on projects involving:
+### Check Out His Work
 
-- **Data Analysis**: Extracting insights from raw data
-- **Machine Learning**: Building predictive models to solve complex problems
-- **Web Development**: Designing user-friendly and intuitive applications
-
-> "I believe that passion and creativity drive innovation, and I'm always excited to explore new possibilities."
-
----
-
-## 🎯 My Key Focus Areas:
-1. **Data Science & Machine Learning** 🤖
-2. **Web Development** 💻
-3. **Passion Projects** 🎨
-
-### 📈 Current Projects:
-- Building a **Spotify Genre Explorer** tool using web scraping and data visualization techniques
-- Analyzing **tennis match data** to predict winning strategies
-- Exploring the use of **NLP** in automating text analysis workflows
-
----
-
-### 📞 Connect with me:
-- [Twitter](https://twitter.com/jerryshi042003)
-- [LinkedIn](https://linkedin.com/in/jerryshi)
-- [Personal Blog](https://jerryshi.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryshi042003&show_icons=true&theme=dark)
-
----
-
-### Tools I Use 🛠️:
-- Python 🐍
-- R 📊
-- JavaScript 🌐
-- SQL 💾
+- UCLA Tennis Consulting [(Demo)](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0): Founder
+- [Orfeu](https://jerryshi042003.github.io/orfeu): A music recommender built out of personal necessity to highlight global music genres and explain their cultural importance  
+- [Blog Author](https://www.jerryhshi.com)
+- [Published Spatial Augmented Reality Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf): Created Visuals in Unity and R
