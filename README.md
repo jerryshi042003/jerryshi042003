@@ -4,7 +4,7 @@ is a means to explore my interests in tennis, transportation, and streaming. I w
 *I am seeking a experienced startup founder/manager to work with.*    
 
 
-### Check Out the Projects
+### Projects
 
 - UCLA Tennis Consulting [(Demo)](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0): Founder
 - [Orfeu](https://jerryshi042003.github.io/orfeu): A music recommender built out of personal necessity to highlight global music genres and explain their cultural importance  
