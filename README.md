@@ -1,7 +1,8 @@
 ## "Data Scientist" 
 is a means to explore my interests in tennis, transportation, and streaming. I want to learn about the entire data pipeline and its product cycle. It is enriching to keep learning skills outside my expertise. I am easily excited by the passion of others, and 
 
-*I am seeking out a experienced startup founder/manager to work with.*
+*I am seeking a experienced startup founder/manager to work with.*    
+
 
 ### Check Out the Projects
 
