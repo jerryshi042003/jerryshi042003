@@ -1,21 +1,38 @@
-#### Data Theory UCLA 2025
+# Welcome to Jerry's GitHub! 🚀
 
-### Projects
-- Founder: Analytics Consulting Team for UCLA D1 Men/Women Tennis [Website Demo](https://match-viewing-dashboard.web.app/matches/jTxagRXzjjQRzdHPGvy0)
-- Orfeu: A music recommender built out of personal necessity to highlight global music genres and explain their cultural importance
-- Blog Website and Author: [My Blog](https://www.jerryhshi.com)
+**Jerry** is a passionate data scientist and developer who loves working on innovative projects to solve real-world problems. He thrives on challenges and enjoys pushing the limits of technology to create meaningful solutions. Jerry has worked on projects involving:
 
-### Work
-- AI Data Science Intern: StatsPerform [Example of Win Prediction Model](https://theanalyst.com/na/sport/tennis/)
-- Professional Tennis Data Analyst: US Open Performance Analytics Team [How the USTA is creating US Open Champions with Data](https://www.sportsbusinessjournal.com/Journal/Issues/2023/01/09/Technology/USTA-Kinexon-tech.aspx)
-  
-### Research
-- Currently in UCLA Mobility Lab
-- Published Oct 2023 for UCSB Computer Human Interaction Lab: 
-[Recently Published Spatial Augmented Reality Paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf)
-  - Created 3D Visuals using Unity and R
+- **Data Analysis**: Extracting insights from raw data
+- **Machine Learning**: Building predictive models to solve complex problems
+- **Web Development**: Designing user-friendly and intuitive applications
 
-### Interests
-- Data Science/Engineering Roles
-- Sports: Tennis Triathlon
-- Tech related to Music, Audiobooks, and Transportation
+> "I believe that passion and creativity drive innovation, and I'm always excited to explore new possibilities."
+
+---
+
+## 🎯 My Key Focus Areas:
+1. **Data Science & Machine Learning** 🤖
+2. **Web Development** 💻
+3. **Passion Projects** 🎨
+
+### 📈 Current Projects:
+- Building a **Spotify Genre Explorer** tool using web scraping and data visualization techniques
+- Analyzing **tennis match data** to predict winning strategies
+- Exploring the use of **NLP** in automating text analysis workflows
+
+---
+
+### 📞 Connect with me:
+- [Twitter](https://twitter.com/jerryshi042003)
+- [LinkedIn](https://linkedin.com/in/jerryshi)
+- [Personal Blog](https://jerryshi.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryshi042003&show_icons=true&theme=dark)
+
+---
+
+### Tools I Use 🛠️:
+- Python 🐍
+- R 📊
+- JavaScript 🌐
+- SQL 💾
