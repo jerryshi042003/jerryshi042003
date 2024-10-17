@@ -1,7 +1,7 @@
 ## "Data Scientist" 
-is a means to explore my interests in tennis, transportation, and streaming. I want to learn about the entire data pipeline and its product cycle. It is enriching to keep learning skills outside my expertise. I am easily excited by the passion of others, and 
+is a means to explore my interests in tennis, transportation, and streaming data. I love side projects and love to work with motivated people. Right now, I'm seeking an environment where I can be around technical mentors.
 
-*I am seeking a experienced startup founder/manager to work with.*    
+*I am especially looking for startups in the Bay or New York Area. Please contact me at jerryshi042003@gmail.com*    
 
 
 ### Projects
