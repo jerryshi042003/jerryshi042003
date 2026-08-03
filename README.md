@@ -1,6 +1,8 @@
 # Jerry Shi
 
-Data engineer building reliable data platforms for sports organisations.
+I play tennis and do ultra trail runs.
+
+Data engineer building reliable data platforms for sports organizations. 
 
 I work across production ingestion, transformation, data quality, governance, and analytics delivery. My current focus is Azure Databricks, PySpark, SQL, Python, Unity Catalog, and CI/CD.
 
