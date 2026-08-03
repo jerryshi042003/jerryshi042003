@@ -1,21 +1,38 @@
 # Jerry Shi
 
-Data engineer building reliable data platforms and useful data products for sports organizations.
+Data engineer and visual storyteller building searchable archives and tennis-analysis tools.
 
-I work across production ingestion, transformation, data quality, governance, and analytics delivery. My current focus is Azure Databricks, PySpark, SQL, Python, Unity Catalog, and CI/CD.
+> My long-term goal is to become the **3Blue1Brown of tennis**: turning movement, tactics, and training into clear visual explanations.
 
-## Live products
+## Current project — David Choe Transcript Archive
 
-- [The Practice Court](https://jerryshi042003.github.io/practice-court/) — a searchable, filterable directory of high-signal racket-sport sources ([source](https://github.com/jerryshi042003/practice-court))
-- [Orfeu](https://jerryshi042003.github.io/orfeu/) — daily music discovery across more than 6,000 genres, with Spotify and geographic exploration ([source](https://github.com/jerryshi042003/orfeu))
+[**Open the live archive**](https://wisdom-reader.onrender.com/choe-archive/) · [Source code](https://github.com/jerryshi042003/david-choe-transcript-archive)
 
-## Selected engineering work
+- **What:** Search across 434 machine-generated transcripts covering roughly 475 hours of recorded conversations.
+- **Why:** Make years of long-form audio discoverable by person, topic, and phrase instead of requiring episode-by-episode listening.
 
-- [Tennis Video Viewer](https://github.com/jerryshi042003/Tennis-Video-Viewer) — searchable match-film review for coaches
-- [Tennis AI Tagger](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger) — computer-vision proof of concept for court, ball, and player tracking
-- [Spatial augmented reality research](https://www.microsoft.com/en-us/research/uploads/prod/2023/11/Reality-Distortion-Room-ISMAR-23.pdf) — published research with visuals created in Unity and R
+## Tennis shot-placement tracking
 
-Outside work, I play tennis and run ultramarathons.
+[![Tennis shot-placement tracking demo](https://raw.githubusercontent.com/jerryshi042003/tennis-consulting-AI-Tagger/main/rally_demo_ahmani.gif)](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger)
+
+[**View the project**](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger)
+
+- **What:** Convert match video into player positions, ball locations, and shot-placement data.
+- **Why:** Give coaches a faster visual path from raw film to training decisions without specialized court hardware.
+
+## Animated tennis explanations
+
+[![Animated tennis point replay](https://raw.githubusercontent.com/jerryshi042003/Tennis-Viz/main/images/rally_demo_AO.gif)](https://github.com/jerryshi042003/Tennis-Viz)
+
+[**View the animation repository**](https://github.com/jerryshi042003/Tennis-Viz)
+
+- **What:** Turn coordinate-level match data into animated court replays and tactical visuals.
+- **Why:** Explain spacing, movement, and point construction with the clarity of an animated lesson.
+
+## More live work
+
+- [The Practice Court](https://jerryshi042003.github.io/practice-court/) — a searchable directory of high-signal racket-sport sources.
+- [Orfeu](https://jerryshi042003.github.io/orfeu/) — daily music discovery across more than 6,000 genres.
 
 ## Contact
 
