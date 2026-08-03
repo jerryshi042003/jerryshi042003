@@ -14,7 +14,7 @@ Data engineer building reliable data products and visual explanations for sports
 - **[Taste](https://github.com/jerryshi042003/taste)** — Remembers why a work mattered—not just the rating—then uses that reason to choose what deserves attention next. [Open Taste](https://jerryshi042003.github.io/taste/).
 - **[Chess](https://github.com/jerryshi042003/chess)** — Jerry's Blitz Coach, league notes, and opening studies. [Open Chess](https://jerryshi042003.github.io/chess/).
 - **[Health](https://github.com/jerryshi042003/health)** — A local-first health log that keeps entries on the device by default. [Open Health](https://jerryshi042003.github.io/health/).
-- **[Tennis CV](https://github.com/jerryshi042003/tennis-cv)** — Audited computer-vision evidence for tennis contact tracking. [Open the evidence site](https://jerry-tennis-contact-evidence.jshi392999.chatgpt.site/).
+- **[Tennis CV](https://github.com/jerryshi042003/tennis-cv)** — A compact racket-sports CV literature review and ledger of 70 distinct experiments, led by the ping-pong 3D reconstruction reference. [Open the research log](https://jerry-tennis-contact-evidence.jshi392999.chatgpt.site/).
 - **[David Choe archive](https://github.com/jerryshi042003/david-choe-transcript-archive)** — Search 434 transcripts across 475 hours of recorded conversations without scrubbing through a timeline. [Open the archive](https://jerryshi042003.github.io/david-choe-transcript-archive/).
 
 ## Contact
