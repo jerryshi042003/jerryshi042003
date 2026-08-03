@@ -4,14 +4,12 @@ Data engineer building reliable data products and visual explanations for sports
 
 > My long-term goal is to become the 3Blue1Brown of tennis: make movement, tactics, and training clear enough to see.
 
-## Building now — Ping-Pong for Tennis
+## Building now — Tennis Motion Explainer
 
-<a href="https://jerryshi042003.github.io/tennis-drill-corpus/"><img src="https://raw.githubusercontent.com/jerryshi042003/tennis-drill-corpus/main/assets/ping-pong-to-tennis.svg" width="360" alt="Table-tennis short game translated to tennis mini-tennis"></a>
+- **What:** Build a Learn Table Tennis–style animation system for tennis from verified footage, attributed coaching claims, and measured 3D motion.
+- **Why:** Make the animation itself explain the mechanism by showing a measured quantity change over time on the movement.
 
-- **What:** Study elite table-tennis practice and turn the clearest patterns into tennis experiments players can run.
-- **Why:** Reduce space and pace so contact quality becomes easier to see, describe, and improve.
-
-[Try the prototype](https://jerryshi042003.github.io/tennis-drill-corpus/) · [View the project](https://github.com/jerryshi042003/tennis-drill-corpus)
+[View the project](https://github.com/jerryshi042003/tennis-drill-corpus) · [Open the live work in progress](https://jerryshi042003.github.io/tennis-drill-corpus/)
 
 ## Other usable work
 
