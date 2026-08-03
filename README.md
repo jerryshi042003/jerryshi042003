@@ -29,6 +29,12 @@ Data engineer and visual storyteller building searchable archives and tennis-ana
 - **What:** Frame-review Alcaraz's public training footage and turn Kovacs's coaching claims into questions that can be tested.
 - **Why:** Explain what elite players repeat, why the movement may work, and where the evidence stops.
 
+## I play, too
+
+[![Jerry Shi playing a 2-on-2 tennis tournament in Los Angeles](https://i.ytimg.com/vi/TCAfCE4OhJ8/hqdefault.jpg)](https://www.youtube.com/shorts/TCAfCE4OhJ8)
+
+[**Watch: 2-on-2 tennis tournament in Los Angeles**](https://www.youtube.com/shorts/TCAfCE4OhJ8) · [More videos](https://www.youtube.com/@jerrythegoatshi)
+
 ## More live work
 
 - [The Practice Court](https://jerryshi042003.github.io/practice-court/) — a searchable directory of high-signal racket-sport sources.
@@ -36,4 +42,4 @@ Data engineer and visual storyteller building searchable archives and tennis-ana
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/jerry-shi88) · [Portfolio](https://jerryhshi.com) · [Email](mailto:jerryshi042003@gmail.com)
+[LinkedIn](https://linkedin.com/in/jerry-shi88) · [Portfolio](https://jerryhshi.com) · [YouTube](https://www.youtube.com/@jerrythegoatshi) · [Instagram](https://www.instagram.com/jerryshiedits/) · [Email](mailto:jerryshi042003@gmail.com)
