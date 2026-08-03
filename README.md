@@ -4,8 +4,8 @@ Data engineer building reliable data products and visual explanations for sports
 
 ## Done
 
-- **[UCLA Tennis consulting](https://github.com/bruin-tennis-consulting/analytics)** Created 80 person team to hand-generate coordinate-level match data over 4 years into d3 visuals and a [production react-app site and dashbaord](https://match-viewing-dashboard.web.app/) used by UCLA Tennis.
-- **[Orfeu](https://github.com/jerryshi042003/orfeu)** — Built a [daily music-discovery experience](https://jerryshi042003.github.io/orfeu/) that helps listeners explore beyond familiar recommendations through playlists, context, and geography.
+- **[UCLA Tennis consulting](https://github.com/bruin-tennis-consulting/analytics)** Created 80 person team to hand-generate coordinate-level match data over 4 years into a react app [match-viewer](https://match-viewing-dashboard.web.app/) used by UCLA Tennis.
+- **[Orfeu](https://github.com/jerryshi042003/orfeu)** — Built a [spotify radio](https://jerryshi042003.github.io/orfeu/) with a new music genre chosen everyday + cultural information (wikipedia).
 
 ## In-Progress
 
