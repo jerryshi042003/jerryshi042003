@@ -9,9 +9,9 @@ Data engineer building reliable data products and visual explanations for sports
 
 ## In-Progress
 
-- **[3Blue1Brown of tennis education](https://github.com/jerryshi042003/tennis-drill-corpus)** — Building one visual lesson system that connects a falsifiable coaching claim, measured 3D motion, real pro footage, an elite drill, and a personal self-check. [Live work in progress](https://jerryshi042003.github.io/tennis-drill-corpus/).
-- **[David Choe repeated-story archive](https://github.com/jerryshi042003/david-choe-transcript-archive)** — Making his long-form conversations searchable and finding stories repeated across different tellings, while leaving the judgment of which stories matter to a human reader. [Open the archive](https://wisdom-reader.onrender.com/choe-archive/).
-- **[Racket-sport source library](https://github.com/jerryshi042003/practice-court)** — Keeping a small, searchable collection of coaches, analysts, publishers, and creators worth returning to. [Open the directory](https://jerryshi042003.github.io/practice-court/).
+- **[3Blue1Brown of tennis education](https://github.com/jerryshi042003/tennis-drill-corpus)** Goal is any 2d into 3d visual video... [Live work in progress](https://jerryshi042003.github.io/tennis-drill-corpus/).
+- **[David Choe archive](https://github.com/jerryshi042003/david-choe-transcript-archive)** Making his podcasts/youtube interviews documented. [Open the archive](https://wisdom-reader.onrender.com/choe-archive/).
+- **[Racket-sport source library](https://github.com/jerryshi042003/practice-court)** Curating the best tennis coaching [Open the directory](https://jerryshi042003.github.io/practice-court/).
 
 ## Contact
 
