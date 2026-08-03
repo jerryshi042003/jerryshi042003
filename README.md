@@ -13,8 +13,8 @@ Data engineer building reliable data products and visual explanations for sports
 
 ## Other usable work
 
+- [Bruin Tennis Consulting: UCLA analytics system](https://github.com/bruin-tennis-consulting/analytics) — coordinate-level match analysis and D3 coaching visuals delivered through a [production match-review app](https://match-viewing-dashboard.web.app/) used by UCLA Tennis.
 - [David Choe Transcript Archive](https://wisdom-reader.onrender.com/choe-archive/) — search 434 transcripts covering roughly 475 hours of recorded conversations.
-- [Tennis shot-placement tracker](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger) — turn match video into player, ball, and placement data.
 - [The Practice Court](https://jerryshi042003.github.io/practice-court/) — find high-signal racket-sport sources without searching from scratch.
 
 ## Contact
