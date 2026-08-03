@@ -15,19 +15,19 @@ Data engineer and visual storyteller building searchable archives and tennis-ana
 
 [![Tennis shot-placement tracking demo](https://raw.githubusercontent.com/jerryshi042003/tennis-consulting-AI-Tagger/main/rally_demo_ahmani.gif)](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger)
 
-[**View the project**](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger)
+[**View the computer-vision project**](https://github.com/jerryshi042003/tennis-consulting-AI-Tagger)
 
 - **What:** Convert match video into player positions, ball locations, and shot-placement data.
 - **Why:** Give coaches a faster visual path from raw film to training decisions without specialized court hardware.
 
-## Animated tennis explanations
+## Alcaraz drills + Kovacs research
 
-[![Animated tennis point replay](https://raw.githubusercontent.com/jerryshi042003/Tennis-Viz/main/images/rally_demo_AO.gif)](https://github.com/jerryshi042003/Tennis-Viz)
+[![Animated tennis point replay](https://raw.githubusercontent.com/jerryshi042003/Tennis-Viz/main/images/rally_demo_AO.gif)](https://wisdom-reader.onrender.com/drills/)
 
-[**View the animation repository**](https://github.com/jerryshi042003/Tennis-Viz)
+[**Open the live drill corpus**](https://wisdom-reader.onrender.com/drills/) · [Public research data](https://github.com/jerryshi042003/tennis-drill-corpus) · [Animation studies](https://github.com/jerryshi042003/Tennis-Viz)
 
-- **What:** Turn coordinate-level match data into animated court replays and tactical visuals.
-- **Why:** Explain spacing, movement, and point construction with the clarity of an animated lesson.
+- **What:** Frame-review Alcaraz's public training footage and turn Kovacs's coaching claims into questions that can be tested.
+- **Why:** Explain what elite players repeat, why the movement may work, and where the evidence stops.
 
 ## More live work
 
