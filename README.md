@@ -1,13 +1,7 @@
 # Jerry Shi
 
-Data engineer building reliable data products and visual explanations for sports.
+Data engineer · LA Kings, LA Galaxy, Ontario Reign (AEG Sports) · **[Resume (PDF)](./Jerry-Shi-Resume.pdf)** · [LinkedIn](https://www.linkedin.com/in/jerry-shi88)
 
-## Selected work
+**In production:** Databricks and Azure pipelines for three teams, and Shield, an internal reporting app for team leadership ([demo, synthetic data](https://shield-demo-nine.vercel.app)).
 
-- **[UCLA Tennis consulting](https://github.com/bruin-tennis-consulting/analytics)** — Match analysis and visual tools for UCLA Tennis. Source code and examples; the team's film-review app requires access.
-- **[Orfeu](https://github.com/jerryshi042003/orfeu)** — Daily music discovery across more than 6,000 genres. [Explore a genre](https://jerryshi042003.github.io/orfeu/).
-- **[David Choe transcript archive](https://github.com/jerryshi042003/david-choe-transcript-archive)** — A searchable transcript library. [Browse the archive](https://jerryshi042003.github.io/david-choe-transcript-archive/).
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/jerry-shi88) · [YouTube](https://www.youtube.com/@jerrythegoatshi) · [Instagram](https://www.instagram.com/jerryshiedits/) · [Email](mailto:jerryshi042003@gmail.com)
+**Demos:** [AI tennis radio](https://ai-tennis-radio.vercel.app) · [Top US players](https://us-tennis-players.vercel.app) · [Track sprint selection](https://track-sprint-demo.vercel.app) · [Toroline](https://toroline-analytics.vercel.app) · [MARKET](https://market-analytics-neon.vercel.app)
