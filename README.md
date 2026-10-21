@@ -7,9 +7,10 @@ Click any demo.
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>LA Kings</b><br>
-<b>LA Galaxy</b> · match day, from leads to seats<br>
-<a href="https://jerrythegoat.com/galaxy/"><img src="demos/galaxy.gif" alt="LA Galaxy match day story"></a><br>
+<b>LA Kings</b> · game night at Crypto.com Arena<br>
+<a href="https://jerrythegoat.com/galaxy/"><img src="demos/kings.jpg" alt="LA Kings game night"></a><br>
+<b>LA Galaxy</b> · the exec team asks Shield<br>
+<a href="https://jerrythegoat.com/galaxy/"><img src="demos/galaxy.gif" alt="Executives asking Shield a question"></a><br>
 <b>Shield</b> · sales data, asked in plain English<br>
 <a href="https://shield-demo-nine.vercel.app"><img src="demos/shield.gif" alt="Shield demo answering a sales question"></a>
 </td>
@@ -22,16 +23,16 @@ Click any demo.
 </tr>
 <tr>
 <td valign="top">
-<b>USTA</b> · Hawk-Eye prep for Ben Shelton<br>
+<b>USTA</b> · US Open match prep<br>
 <a href="https://jerrythegoat.com/usta/"><img src="demos/usta.gif" alt="USTA Hawk-Eye story at Arthur Ashe"></a><br>
-<b>What the coach sees</b><br>
-<a href="https://jerrythegoat.com/usta/"><img src="demos/usta-dashboard.jpg" alt="Serve map: wide to his left"></a>
+<b>Top US players</b> · serve and return<br>
+<a href="https://jerrythegoat.com/usta/#usdash"><img src="demos/usta-dashboard.jpg" alt="Top US players dashboard"></a>
 </td>
 <td valign="top">
 <b>UCLA Tennis</b> · from zero budget to an 80-person team<br>
 <a href="https://jerrythegoat.com/ucla/"><img src="demos/ucla.gif" alt="UCLA Tennis story at the LA Tennis Center"></a><br>
-<b>What the coach sees</b><br>
-<a href="https://jerrythegoat.com/ucla/"><img src="demos/ucla-dashboard.jpg" alt="UCLA return chart over the court"></a>
+<b>Back to the top 8</b> · rankings 2018 to 2025<br>
+<a href="https://jerrythegoat.com/ucla/?beat=results"><img src="demos/ucla-dashboard.jpg" alt="UCLA national ranking chart"></a>
 </td>
 </tr>
 <tr>
