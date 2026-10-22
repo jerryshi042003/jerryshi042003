@@ -7,11 +7,8 @@ Data engineer · LA Kings, LA Galaxy, Ontario Reign
 <br>
 
 <a href="https://jerrythegoat.com/shield/"><img src="demos/shield-interface.png" width="140" alt="Shield sports-data dashboard"></a>
-&nbsp;
 <a href="https://jerrythegoat.com/cycling/"><img src="https://jerrythegoat.com/hub/cycling-title.jpg" width="140" alt="Team USA Cycling"></a>
-&nbsp;
 <a href="https://jerrythegoat.com/radio/"><img src="https://jerrythegoat.com/hub/radio-captions.jpg" width="140" alt="AI tennis radio"></a>
-&nbsp;
 <a href="https://jerrythegoat.com/orfeu/"><img src="https://jerrythegoat.com/hub/orfeu-split.jpg" width="140" alt="Orfeu music cultures"></a>
 
 - [Shield](https://jerrythegoat.com/shield/) · sports-data demo
