@@ -7,8 +7,8 @@ Data engineer · LA Kings, LA Galaxy, Ontario Reign (AEG Sports)
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://jerrythegoat.com/shield/"><img src="https://jerrythegoat.com/hub/shield-clean.jpg" alt="Shield AI Interface"></a><br>
-<b><a href="https://jerrythegoat.com/shield/">Shield AI Interface</a></b>
+<a href="https://jerrythegoat.com/shield/"><img src="demos/shield-interface.png" alt="Shield interactive demo showing a question, revenue answer, and dashboard"></a><br>
+<b><a href="https://jerrythegoat.com/shield/">Shield · interactive sports-data demo</a></b>
 </td>
 <td width="50%" valign="top">
 <a href="https://jerrythegoat.com/cycling/"><img src="https://jerrythegoat.com/hub/cycling-title.jpg" alt="Team USA Cycling"></a><br>
@@ -27,3 +27,15 @@ Data engineer · LA Kings, LA Galaxy, Ontario Reign (AEG Sports)
 </tr>
 </table>
 
+
+## Favorite skills
+
+A few workflows I use for visual explanations, design, research, and shipping.
+
+| Skill | What I use it for |
+| --- | --- |
+| [Sexy Documentation](https://github.com/jerryshi042003/sexy-documentation) | Clear system maps and worked examples. [Five visual demos →](https://github.com/jerryshi042003/sexy-documentation#five-favorite-visual-patterns) |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Interface critique, hierarchy, layout, and cleanup. |
+| [HyperFrames](https://github.com/heygen-com/hyperframes) | HTML-based video and motion explainers. |
+| [Business reconstruction](https://github.com/jerryshi042003/sexy-documentation/blob/main/references/my-workflows.md) · custom | Understand how a business actually works before proposing tools. |
+| [Intent + change validation](https://github.com/jerryshi042003/sexy-documentation/blob/main/references/my-workflows.md) · custom | Recover the real request, verify the source, and check the shipped result. |

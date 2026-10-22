@@ -9,3 +9,7 @@ The Orfeu preview shows [Pablinho Fantástico dancing passinho in Rio de Janeiro
 Cycling and Radio use the October 22 portfolio preview posters. Their live projects contain the moving scenes and playback. The cycling scene is an illustrative reconstruction; Radio uses Australian Open footage with generated commentary. Follow each project for its data and media sources.
 
 The retained older `orfeu-current.png` includes **Rocinha road 2010** by chensiyuan, [Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Rocinha_road_2010.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Its original image credit remains in the screenshot; it is no longer the profile card.
+
+## Shield interface preview · October 22, 2026
+
+`shield-interface.png` is a browser capture of the public interactive demo at https://jerrythegoat.com/shield/. The interface labels its values as illustrative demo data. It replaces the title-card thumbnail in the profile README; the project destination is unchanged.
