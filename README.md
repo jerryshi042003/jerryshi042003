@@ -10,10 +10,8 @@ Some animations I made recently at work that I thought were cool.
 
 <img src="demos/shield-loading.gif" width="410" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest"> <img src="demos/spom-cards.gif" width="410" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place">
 
-- **Loading Shield** · the report's loading screen. A particle galaxy folds into a star and then into the LA Galaxy crest while the data loads. The particle logo is [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk, built on [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik. The galaxy, the flight through it and the crest bake are mine.
-- **SPOM collector cards** · the month's top five sellers as FIFA-style shield cards. Holographic foil is hand-written CSS: masked gradients that catch light as the pointer moves. Cards ripple in on their backs and flip with [Framer Motion](https://github.com/motiondivision/motion); [NumberFlow](https://github.com/barvian/number-flow) by Max Barvian rolls the values when ranks change. Names and amounts in the clip are fictional.
-
-Stack: Next.js 15, React 18, TypeScript, Tailwind, Recharts, Databricks SQL behind the data. The living backgrounds elsewhere in Shield (Galaxy, Plasma, Pixel Snow, Folder) are [React Bits](https://github.com/DavidHDev/react-bits) components on ogl and three.js. Icons are [Lucide](https://github.com/lucide-icons/lucide).
+- **Loading Shield** · built with [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk and [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik.
+- **SPOM cards** · FIFA-style seller cards with holographic foil. [Framer Motion](https://github.com/motiondivision/motion) and [NumberFlow](https://github.com/barvian/number-flow).
 
 <br>
 
