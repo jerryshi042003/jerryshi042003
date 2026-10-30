@@ -2,9 +2,9 @@
 
 Data engineer · LA Kings, LA Galaxy, Ontario Reign
 
-[pretty cool Meshy and tennis visuals on my website](https://jerrythegoat.com)
+pretty cool Meshy and tennis visuals on my website [jerrythegoat.com](https://jerrythegoat.com)
 
-[Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88) · [Repositories](https://github.com/jerryshi042003?tab=repositories)
+[Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88)
 
 <br>
 
