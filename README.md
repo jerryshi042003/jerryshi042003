@@ -10,18 +10,13 @@ I have some pretty cool Meshy and tennis visuals on my website if you want to ch
 
 Some animations I made recently at work that I thought were cool.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="demos/shield-loading.gif" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest"><br>
-<b>Loading Shield</b> · built with <a href="https://github.com/enesozturk/thinking-logos">Thinking Logos</a> by Enes Ozturk and <a href="https://github.com/Jakubantalik/thinking-orbs">Thinking Orbs</a> by Jakub Antalik.
-</td>
-<td width="50%" valign="top">
-<img src="demos/spom-cards.gif" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place"><br>
-<b>SPOM cards</b> · FIFA-style seller cards with holographic foil. <a href="https://github.com/motiondivision/motion">Framer Motion</a> and <a href="https://github.com/barvian/number-flow">NumberFlow</a>.
-</td>
-</tr>
-</table>
+<img src="demos/shield-loading.gif" width="100%" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest">
+
+- **Loading Shield** · built with [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk and [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik.
+
+<img src="demos/spom-cards.gif" width="100%" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place">
+
+- **SPOM cards** · FIFA-style seller cards with holographic foil. [Framer Motion](https://github.com/motiondivision/motion) and [NumberFlow](https://github.com/barvian/number-flow).
 
 <br>
 
