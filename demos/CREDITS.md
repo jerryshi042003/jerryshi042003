@@ -13,3 +13,11 @@ The retained older `orfeu-current.png` includes **Rocinha road 2010** by chensiy
 ## Shield interface preview · October 22, 2026
 
 `shield-interface.png` is a browser capture of the public interactive demo at https://jerrythegoat.com/shield/. The interface labels its values as illustrative demo data. It replaces the title-card thumbnail in the profile README; the project destination is unchanged.
+
+## Work animations · October 29, 2026
+
+`shield-loading.gif` is cut from the Shield loading sequence as captured on October 29, 2026 (the production film's `loader.mp4`, a timestamped screencast of the live app at 1728×790, rendered here at 500px, 12 fps). It shows the particle galaxy, the quasar star and the LA Galaxy crest with the "Loading Shield" progress line; no report data appears. The particle logo engine is [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk, built on [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik, both MIT; the galaxy art, flight and crest bake are original.
+
+`spom-cards.gif` was recorded on October 29, 2026 from the SPOM recognition studio (the report's own card component in a local gallery) with Playwright in Chrome at 1280×900, cropped to the card row. The five names are fictional and the amounts were rescaled; the clip is not production data. The LA Galaxy crest is the club's mark. Card motion uses Framer Motion and NumberFlow; the foil, flip faces and edge flames are original CSS and WebGL.
+
+`shield-preview.jpg`, `cycling-preview.jpg`, `radio-preview.jpg` and `orfeu-preview.jpg` are the October 22 previews above re-cut to one 960×540 frame each: the Shield interface capture padded to 16:9, the Orfeu split poster resized, Cycling and Radio unchanged.
