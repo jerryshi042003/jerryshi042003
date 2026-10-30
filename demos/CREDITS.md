@@ -21,3 +21,7 @@ The retained older `orfeu-current.png` includes **Rocinha road 2010** by chensiy
 `spom-cards.gif` was recorded on October 29, 2026 from the SPOM recognition studio (the report's own card component in a local gallery) with Playwright in Chrome at 1280×900, cropped to the card row. The five names are fictional and the amounts were rescaled; the clip is not production data. The LA Galaxy crest is the club's mark. Card motion uses Framer Motion and NumberFlow; the foil, flip faces and edge flames are original CSS and WebGL.
 
 `shield-preview.jpg`, `cycling-preview.jpg`, `radio-preview.jpg` and `orfeu-preview.jpg` are the October 22 previews above re-cut to one 960×540 frame each: the Shield interface capture padded to 16:9, the Orfeu split poster resized, Cycling and Radio unchanged.
+
+`orfeu-preview.jpg` and `radio-preview.jpg` were replaced on October 29, 2026 with the exact card thumbnails the portfolio home page uses: `hub/cache/sound-atlas-cumbia-71be148ab5d2.webp` (Orfeu) and `hub/cache/selected-radio-57373f94459c.jpg` (Radio), both at 960×540.
+
+`shield-loading.gif` was re-cut on October 29, 2026 from the full intro capture (`full-intro.mp4`, 9.27 s) so it includes the crest flying into the header corner and the report fading in. From 8.75 s the report body below the header is blurred in the GIF; the production figures on that screen are not published.

@@ -2,7 +2,7 @@
 
 Data engineer · LA Kings, LA Galaxy, Ontario Reign
 
-I have some pretty cool Meshy and tennis visuals on my website if you want to check them out: [jerrythegoat.com](https://jerrythegoat.com)
+[pretty cool Meshy and tennis visuals on my website](https://jerrythegoat.com)
 
 [Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88) · [Repositories](https://github.com/jerryshi042003?tab=repositories)
 
@@ -12,11 +12,11 @@ Some animations I made recently at work that I thought were cool.
 
 <img src="demos/shield-loading.gif" width="100%" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest">
 
-- **Loading Shield** · built with [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk and [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik.
+- **Loading Shield** · internal analytics website at the Kings. Built with [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk and [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik.
 
 <img src="demos/spom-cards.gif" width="100%" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place">
 
-- **SPOM cards** · FIFA-style seller cards with holographic foil. [Framer Motion](https://github.com/motiondivision/motion) and [NumberFlow](https://github.com/barvian/number-flow).
+- **SPOM cards** · Sales Person of the Month, an internal sales competition at LA Galaxy. FIFA-style cards with holographic foil, [Framer Motion](https://github.com/motiondivision/motion) and [NumberFlow](https://github.com/barvian/number-flow).
 
 <br>
 
