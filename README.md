@@ -4,6 +4,8 @@ Data engineer · LA Kings, LA Galaxy, Ontario Reign
 
 pretty cool Meshy and tennis visuals on my website [jerrythegoat.com](https://jerrythegoat.com)
 
+<a href="https://jerrythegoat.com/usta/"><img src="demos/usta-stadium.gif" width="100%" alt="Arthur Ashe Stadium: wide exterior, descent over the bowl to the roof Hawk-Eye cameras, then behind Ben Shelton as a reconstructed serve-and-volley point plays"></a>
+
 [Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88)
 
 <br>
