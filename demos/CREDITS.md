@@ -25,3 +25,5 @@ The retained older `orfeu-current.png` includes **Rocinha road 2010** by chensiy
 `orfeu-preview.jpg` and `radio-preview.jpg` were replaced on October 29, 2026 with the exact card thumbnails the portfolio home page uses: `hub/cache/sound-atlas-cumbia-71be148ab5d2.webp` (Orfeu) and `hub/cache/selected-radio-57373f94459c.jpg` (Radio), both at 960×540.
 
 `shield-loading.gif` was re-cut on October 29, 2026 from the full intro capture (`full-intro.mp4`, 9.27 s) so it includes the crest flying into the header corner and the report fading in. From 8.75 s the report body below the header is blurred in the GIF; the production figures on that screen are not published.
+
+Both GIFs were re-rendered on October 30, 2026 at higher quality: `shield-loading.gif` at 800px, 12 fps, 256 colors (24.9 MB); `spom-cards.gif` recorded at 2× pixel density and cut at 1000px, 15 fps, 256 colors (9.9 MB). The SPOM clip now ends after the card flips back; the simulated promotion was removed.
