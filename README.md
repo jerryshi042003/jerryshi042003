@@ -2,16 +2,26 @@
 
 Data engineer · LA Kings, LA Galaxy, Ontario Reign
 
-[Portfolio](https://jerrythegoat.com) · [Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88) · [Repositories](https://github.com/jerryshi042003?tab=repositories)
+I have some pretty cool Meshy and tennis visuals on my website if you want to check them out: [jerrythegoat.com](https://jerrythegoat.com)
+
+[Resume](https://jerrythegoat.com/Jerry-Shi-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jerry-shi88) · [Repositories](https://github.com/jerryshi042003?tab=repositories)
 
 <br>
 
 Some animations I made recently at work that I thought were cool.
 
-<img src="demos/shield-loading.gif" width="410" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest"> <img src="demos/spom-cards.gif" width="410" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place">
-
-- **Loading Shield** · built with [Thinking Logos](https://github.com/enesozturk/thinking-logos) by Enes Ozturk and [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) by Jakub Antalik.
-- **SPOM cards** · FIFA-style seller cards with holographic foil. [Framer Motion](https://github.com/motiondivision/motion) and [NumberFlow](https://github.com/barvian/number-flow).
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="demos/shield-loading.gif" alt="Shield loading screen: a particle galaxy collapses into a star, then into the LA Galaxy crest"><br>
+<b>Loading Shield</b> · built with <a href="https://github.com/enesozturk/thinking-logos">Thinking Logos</a> by Enes Ozturk and <a href="https://github.com/Jakubantalik/thinking-orbs">Thinking Orbs</a> by Jakub Antalik.
+</td>
+<td width="50%" valign="top">
+<img src="demos/spom-cards.gif" alt="SPOM collector cards flipping in with holographic foil, one card turning to show its stats, then a new name taking first place"><br>
+<b>SPOM cards</b> · FIFA-style seller cards with holographic foil. <a href="https://github.com/motiondivision/motion">Framer Motion</a> and <a href="https://github.com/barvian/number-flow">NumberFlow</a>.
+</td>
+</tr>
+</table>
 
 <br>
 
